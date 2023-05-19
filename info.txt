@@ -1,0 +1,15 @@
+{
+ "Name": "Ascension Helper",
+ "ID": "AHelper",
+ "Author": "Alpha2749",
+ "Description": "A mod which helps with Ascension-related achievements. Automatically Ascends when it is able to, allows for easy AFK-ing for the 1000 Ascensions achievement. Does NOT disable Steam Achievements.",
+ "ModVersion": 1,
+ "GameVersion": 2.043,
+ "Date": "03/01/2022",
+ "Dependencies": [
+  "CCSE"
+ ],
+ "Disabled": 1,
+ "AllowSteamAchievs": 1,
+ "Workshop": "2705841778"
+}
